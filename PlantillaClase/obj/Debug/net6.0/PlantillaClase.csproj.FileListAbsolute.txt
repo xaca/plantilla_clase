@@ -1,0 +1,15 @@
+C:\Users\B09S314est\source\repos\PlantillaClase\PlantillaClase\bin\Debug\net6.0\PlantillaClase.exe
+C:\Users\B09S314est\source\repos\PlantillaClase\PlantillaClase\bin\Debug\net6.0\PlantillaClase.deps.json
+C:\Users\B09S314est\source\repos\PlantillaClase\PlantillaClase\bin\Debug\net6.0\PlantillaClase.runtimeconfig.json
+C:\Users\B09S314est\source\repos\PlantillaClase\PlantillaClase\bin\Debug\net6.0\PlantillaClase.dll
+C:\Users\B09S314est\source\repos\PlantillaClase\PlantillaClase\bin\Debug\net6.0\PlantillaClase.pdb
+C:\Users\B09S314est\source\repos\PlantillaClase\PlantillaClase\obj\Debug\net6.0\PlantillaClase.csproj.AssemblyReference.cache
+C:\Users\B09S314est\source\repos\PlantillaClase\PlantillaClase\obj\Debug\net6.0\PlantillaClase.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\B09S314est\source\repos\PlantillaClase\PlantillaClase\obj\Debug\net6.0\PlantillaClase.AssemblyInfoInputs.cache
+C:\Users\B09S314est\source\repos\PlantillaClase\PlantillaClase\obj\Debug\net6.0\PlantillaClase.AssemblyInfo.cs
+C:\Users\B09S314est\source\repos\PlantillaClase\PlantillaClase\obj\Debug\net6.0\PlantillaClase.csproj.CoreCompileInputs.cache
+C:\Users\B09S314est\source\repos\PlantillaClase\PlantillaClase\obj\Debug\net6.0\PlantillaClase.dll
+C:\Users\B09S314est\source\repos\PlantillaClase\PlantillaClase\obj\Debug\net6.0\refint\PlantillaClase.dll
+C:\Users\B09S314est\source\repos\PlantillaClase\PlantillaClase\obj\Debug\net6.0\PlantillaClase.pdb
+C:\Users\B09S314est\source\repos\PlantillaClase\PlantillaClase\obj\Debug\net6.0\PlantillaClase.genruntimeconfig.cache
+C:\Users\B09S314est\source\repos\PlantillaClase\PlantillaClase\obj\Debug\net6.0\ref\PlantillaClase.dll
